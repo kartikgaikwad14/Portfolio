@@ -1,116 +1,192 @@
-# Kartik Portfolio Website
+# 🚀 Kartik Gaikwad - Developer Portfolio
 
-This is my personal **Developer Portfolio Website** where I showcase my projects, technical skills, achievements, and contact information.
+Welcome to my personal portfolio website! This portfolio showcases my projects, technical skills, achievements, certifications, and experience as a Computer Engineering student passionate about Full-Stack Development, AI, and Cybersecurity.
 
-🌐 **Live Website:**  
-https://kartik1-portfolio.netlify.app/
+## 🌐 Live Demo
 
----
+🔗 **Portfolio:** https://your-portfolio-link.vercel.app
 
-# 🚀 About the Project
-
-This portfolio website is designed with a clean, modern, and responsive interface to present my work professionally. It highlights my skills, projects, and experience in **Web Development, Programming, and Problem Solving**.
-
-The website includes the following sections:
-
-- Home
-- About Me
-- Skills
-- Featured Projects
-- Contact Information
+> Replace the above URL after deploying your portfolio.
 
 ---
 
-# 🛠️ Technologies Used
+## 📸 Preview
+
+![Portfolio Screenshot](./public/preview.png)
+
+> Add a screenshot named `preview.png` inside the `public` folder (or update the path).
+
+---
+
+## ✨ Features
+
+- Responsive Design
+- Modern UI/UX
+- Smooth Animations
+- About Me Section
+- Skills Showcase
+- Project Gallery
+- Education Timeline
+- Experience Section
+- Certifications
+- Contact Form
+- Social Media Links
+- Resume Download
+- Mobile Friendly
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
 
 - HTML5
 - CSS3
-- JavaScript
-- Font Awesome Icons
-- Google Fonts
+- JavaScript (ES6+)
+- React.js
+- Vite
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Vercel
 
 ---
 
-# ✨ Features
+## 📂 Project Structure
 
-- Fully responsive design
-- Smooth scrolling navigation
-- Interactive project showcase
-- Modern UI/UX design
-- Skills and technologies section
-- Social media integration
-- Contact section
-- Clean animations and hover effects
-
----
-
-# 📂 Featured Projects
-
-## Resume Builder
-An online resume builder application that helps users create professional resumes easily.
-
-🔗 Live Project:  
-https://resume-builder-yg6o.onrender.com
-
-### Technologies:
-- PHP
-- HTML
-- CSS
-
----
-
-## IPL Winner Predictor
-A machine learning based web application that predicts IPL match winners.
-
-🔗 Live Project:  
-https://ipl-winner-predictor.netlify.app
-
-### Technologies:
-- Python
-- Machine Learning
-- Streamlit
-
----
-
-# 📁 Project Structure
-
-```text
-portfolio-website
-│
-├── index.html
-├── style.css
-├── script.js
-├── kartik.jpg
-└── README.md
+```
+Portfolio-main/
+│── public/
+│── src/
+│── dist/
+│── index.html
+│── package.json
+│── vite.config.js
+│── README.md
 ```
 
 ---
 
-# 👨‍💻 Author
+## ⚙️ Installation
 
-## Kartik Gaikwad
+Clone the repository
 
-- Computer Engineering Student
-- DY Patil Institute of Technology, Pimpri
-- Passionate about Web Development and Software Development
+```bash
+git clone https://github.com/kartikgaikwad14/Portfolio.git
+```
+
+Go to the project directory
+
+```bash
+cd Portfolio
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start the development server
+
+```bash
+npm run dev
+```
+
+Build for production
+
+```bash
+npm run build
+```
+
+Preview production build
+
+```bash
+npm run preview
+```
 
 ---
 
-# 📬 Contact
+## 📌 Featured Projects
 
-📧 Email: gaikwadkartik131@gmail.com
+### 📄 Resume Builder
 
-🔗 LinkedIn:  
-https://www.linkedin.com/in/kartik-gaikwad-
+An AI-ready Resume Builder that enables users to create professional resumes with multiple templates and download them instantly.
 
-🔗 GitHub:  
-https://github.com/kartikgaikwad14
+**Tech Used**
 
-🔗 Instagram:  
-https://www.instagram.com/kartikgaikwad_14
+- HTML
+- CSS
+- JavaScript
 
 ---
 
-# ⭐ Support
+### 💬 Baithak
 
-If you like this project, consider giving it a ⭐ on GitHub.
+A collaborative discussion platform built for seamless communication and interaction among users.
+
+**Tech Used**
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+### 🤖 Portfolio Website
+
+A modern portfolio built using React and Vite featuring responsive design, animations, and project showcase.
+
+---
+
+## 🎯 Future Improvements
+
+- AI Chat Assistant
+- Dark/Light Theme Toggle
+- Blog Section
+- Project Filtering
+- Admin Dashboard
+- Visitor Analytics
+- ATS Resume Checker Integration
+- Job Description Matching using LLM
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Kartik Gaikwad**, a Third-Year Computer Engineering student passionate about solving real-world problems using technology.
+
+My interests include:
+
+- Full-Stack Development
+- Artificial Intelligence
+- Cybersecurity
+- Open Source
+- Data Structures & Algorithms
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/kartikgaikwad14
+- LinkedIn: https://linkedin.com/in/kartikgaikwad14
+- Email: gaikwadkartik131@gmail.com
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+### Made with ❤️ by Kartik Gaikwad
