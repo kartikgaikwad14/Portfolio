@@ -4,17 +4,7 @@ Welcome to my personal portfolio website! This portfolio showcases my projects, 
 
 ## 🌐 Live Demo
 
-🔗 **Portfolio:** https://your-portfolio-link.vercel.app
-
-> Replace the above URL after deploying your portfolio.
-
----
-
-## 📸 Preview
-
-![Portfolio Screenshot](./public/preview.png)
-
-> Add a screenshot named `preview.png` inside the `public` folder (or update the path).
+🔗 **Portfolio:** [https://your-portfolio-link.vercel.app](https://portfoliokartik-ochre.vercel.app/)
 
 ---
 
